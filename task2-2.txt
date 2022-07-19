@@ -1,1 +1,2 @@
 It is for first commit
+It is fir second commit in feature
